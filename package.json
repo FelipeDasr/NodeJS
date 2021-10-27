@@ -1,0 +1,30 @@
+{
+  "name": "cursonodejs",
+  "version": "1.0.0",
+  "description": "Curso de nodeJS api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeDosAnjos/CursoNodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "express",
+    "upd",
+    "tcp",
+    "https",
+    "mongodb"
+  ],
+  "author": "Felipe dos anjos santana rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelipeDosAnjos/CursoNodeJS/issues"
+  },
+  "homepage": "https://github.com/FelipeDosAnjos/CursoNodeJS#readme",
+  "dependencies": {}
+}

@@ -1,0 +1,5 @@
+console.log(`Nome do Arquivo: `, __filename)
+console.log(`Diretório do Arquivo: `, __dirname)
+console.log(`Diretório onde foi invocado: `, process.cwd())
+console.log(`Nome de Usuário: `, process.env.USERNAME)
+console.log(`Idioma: `, process.env.LANG)
